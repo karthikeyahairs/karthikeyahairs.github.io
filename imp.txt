@@ -1,1 +1,2 @@
 184.168.221.45 this is the old A record, just saving for later purposes if needed.
+so i removed this, and using only github's A records, if any change needed later, we can do it.
